@@ -1,0 +1,27 @@
+ #gamecontainer{
+  text-align: center;
+  background-color: lightgreen;
+ }
+ #gameboard{
+    border: 3px solid;
+    background-color: beige;
+    color: beige;
+ }
+
+ #scoretext{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+ }
+
+ #resetbtn{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+    border:4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: greenyellow;
+
+ }
+
